@@ -282,7 +282,6 @@ footer{
 }
 .paketfooter ul{
     list-style-type: none;
-    margin-left: -40px;
 }
 .paketfooter a{
     color: #dcdde1;
@@ -295,7 +294,6 @@ footer{
 }
 .cctvfooter ul{
     list-style-type: none;
-    margin-left: -40px;
 }
 .cctvfooter a{
     color: #dcdde1;
@@ -375,19 +373,6 @@ footer{
     }
     footer{
         height: 350px;
-    }
-    .foot{
-        margin-left: 20px;
-    }
-    .foot1{
-        margin-left: 60px;
-        margin-right: -50px;
-    }
-    .foot2{
-        margin-right: -50px;
-    }
-    .foot3{
-        margin-right: -50px;
     }
     .alamat p{
         width: 100%;
